@@ -7,7 +7,7 @@ Simply clone the repo onto your desktop and execute the JAR file within the fold
 ### Instructions:
 Press Start on the top of the game screen to start
 
-Use the arrow keys to move, space to fire
+Use the arrow keys to move, space to fire  
 Each alien is worth different points. At 500 points, a UFO will appear. Shooting one of these grants a power up
 
 Red = Rapid Fire
